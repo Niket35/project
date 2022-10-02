@@ -127,3 +127,4 @@ flutter:
     - res/images/
     - res/lottie/
     - packages/flutter_gallery_assets/animated_images/animated_flutter_stickers.webp
+    - assets/login.png
